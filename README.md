@@ -1,4 +1,4 @@
-# Home_price_prediction_With_flask_Heroku
+# Home_price_prediction_With_flask
 
 ![Python](https://img.shields.io/badge/Powered%20By-Python-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-43853D?style=for-the-badge&logo=&logoColor=white)&nbsp;
 
-# [Machine Learning]() ⭐
+# [Deploy_with_Heroku]() ⭐
 
 <img src="images/website_frontend.png">
 
